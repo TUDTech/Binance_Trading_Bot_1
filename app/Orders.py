@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# @yasinkuyu
+
 import config 
 
 from BinanceAPI import BinanceAPI
