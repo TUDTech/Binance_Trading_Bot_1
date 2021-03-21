@@ -1,4 +1,4 @@
-# Binance Trader (RC 2)
+# Binance Trader
 
 This is an experimental bot for auto trading the binance.com exchange.
 
