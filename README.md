@@ -95,25 +95,20 @@ This is an trading bot for auto trading the binance.com exchange.
 
     docker run trader
 
-## DISCLAIMER
+## Disclaimer
 
     I am not responsible for anything done with this bot.
     You use it at your own risk.
     There are no warranties or guarantees expressed or implied.
     You assume all responsibility and liability.
 
-# Contributing
+## Contributing
 
-    Thanks all for your contributions...
+Thanks all for your contributions...
     
-    ![Screen Shot 2021-03-21 at 19 11 59](https://user-images.githubusercontent.com/81108192/111917690-519f4380-8a79-11eb-9d01-de457b1655f6.png)
+![Screen Shot 2021-03-21 at 19 11 59](https://user-images.githubusercontent.com/81108192/111917690-519f4380-8a79-11eb-9d01-de457b1655f6.png)
     
-    ETH WALLET: 0xA1134858c168568CBE37649D16723eC8F782e0A2
-    
-    Fork this Repo
-    Commit your changes (git commit -m 'Add some feature')
-    Push to the changes (git push)
-    Create a new Pull Request
+ETH WALLET: 0xA1134858c168568CBE37649D16723eC8F782e0A2
 
 ## Troubleshooting
 
@@ -147,3 +142,8 @@ This is an trading bot for auto trading the binance.com exchange.
 Code released under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
+
+Fork this Repo
+    Commit your changes (git commit -m 'Add some feature')
+    Push to the changes (git push)
+    Create a new Pull Request
