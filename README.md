@@ -110,6 +110,11 @@ Thanks all for your contributions...
     
 ETH WALLET: 0xA1134858c168568CBE37649D16723eC8F782e0A2
 
+    Fork this Repo
+    Commit your changes (git commit -m 'Add some feature')
+    Push to the changes (git push)
+    Create a new Pull Request
+
 ## Troubleshooting
 
     Filter failure: MIN_NOTIONAL
@@ -142,8 +147,3 @@ ETH WALLET: 0xA1134858c168568CBE37649D16723eC8F782e0A2
 Code released under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
-
-Fork this Repo
-    Commit your changes (git commit -m 'Add some feature')
-    Push to the changes (git push)
-    Create a new Pull Request
