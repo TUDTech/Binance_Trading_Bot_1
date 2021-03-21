@@ -106,6 +106,8 @@ This is an trading bot for auto trading the binance.com exchange.
 
     Thanks all for your contributions...
     
+    ![Screen Shot 2021-03-21 at 19 10 48](https://user-images.githubusercontent.com/81108192/111917653-26b4ef80-8a79-11eb-99d4-d6b466bb1c70.png)
+    
     ETH WALLET: 0xA1134858c168568CBE37649D16723eC8F782e0A2
     
     Fork this Repo
