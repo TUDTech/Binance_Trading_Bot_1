@@ -1,4 +1,4 @@
-# Binance Trader (RC 2)
+# Binance Trader
 
 This is an trading bot for auto trading the binance.com exchange.
 
@@ -104,14 +104,14 @@ This is an trading bot for auto trading the binance.com exchange.
 
 ## Contributing
 
+    Thanks all for your contributions...
+    
+    ETH WALLET: 0xA1134858c168568CBE37649D16723eC8F782e0A2
+    
     Fork this Repo
     Commit your changes (git commit -m 'Add some feature')
     Push to the changes (git push)
     Create a new Pull Request
-
-    Thanks all for your contributions...
-    
-    ETH Wallet: 0xA1134858c168568CBE37649D16723eC8F782e0A2
 
 ## Troubleshooting
 
