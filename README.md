@@ -102,11 +102,11 @@ This is an trading bot for auto trading the binance.com exchange.
     There are no warranties or guarantees expressed or implied.
     You assume all responsibility and liability.
 
-## Contributing
+# Contributing
 
     Thanks all for your contributions...
     
-    ![Screen Shot 2021-03-21 at 19 10 48](https://user-images.githubusercontent.com/81108192/111917653-26b4ef80-8a79-11eb-99d4-d6b466bb1c70.png)
+    ![Screen Shot 2021-03-21 at 19 11 59](https://user-images.githubusercontent.com/81108192/111917690-519f4380-8a79-11eb-9d01-de457b1655f6.png)
     
     ETH WALLET: 0xA1134858c168568CBE37649D16723eC8F782e0A2
     
