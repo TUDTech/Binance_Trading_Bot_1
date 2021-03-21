@@ -110,12 +110,8 @@ This is an experimental bot for auto trading the binance.com exchange.
     Create a new Pull Request
 
     Thanks all for your contributions...
-
-    Contributors
-        @WeSpeakCrypto
-        @afoke
-        @omerfarukz
-        @plgonzalezrx8
+    
+    ETH Wallet: 0xA1134858c168568CBE37649D16723eC8F782e0A2
 
 ## Troubleshooting
 
