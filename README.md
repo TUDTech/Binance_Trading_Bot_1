@@ -6,7 +6,7 @@ This is an experimental bot for auto trading the binance.com exchange.
 
 ## Configuration
 
-1. [Signup](https://www.binance.com/?ref=10701111) for Binance
+1. [Signup](https://www.binance.com/en/register?ref=KPAOFX7T) for Binance
 1. Enable Two-factor Authentication
 1. Go API Center, [Create New](https://www.binance.com/userCenter/createApi.html) Api Key
 
