@@ -1,12 +1,12 @@
 # Binance Trader (RC 2)
 
-This is an experimental bot for auto trading the binance.com exchange. [@yasinkuyu](https://twitter.com/yasinkuyu)
+This is an trading bot for auto trading the binance.com exchange.
 
-![Screenshot](https://github.com/yasinkuyu/binance-trader/blob/master/img/screenshot.png)
+![Screen Shot 2021-03-21 at 18 42 05](https://user-images.githubusercontent.com/81108192/111916913-23b80000-8a75-11eb-90d5-1477af5d134a.png)
 
 ## Configuration
 
-1. [Signup](https://www.binance.com/?ref=10701111) for Binance
+1. [Signup](https://www.binance.com/en/register?ref=KPAOFX7T) for Binance
 1. Enable Two-factor Authentication
 1. Go API Center, [Create New](https://www.binance.com/userCenter/createApi.html) Api Key
 
@@ -110,12 +110,8 @@ This is an experimental bot for auto trading the binance.com exchange. [@yasinku
     Create a new Pull Request
 
     Thanks all for your contributions...
-
-    Contributors
-        @WeSpeakCrypto
-        @afoke
-        @omerfarukz
-        @plgonzalezrx8
+    
+    ETH Wallet: 0xA1134858c168568CBE37649D16723eC8F782e0A2
 
 ## Troubleshooting
 
