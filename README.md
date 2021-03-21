@@ -2,7 +2,7 @@
 
 This is an experimental bot for auto trading the binance.com exchange.
 
-![Screenshot](https://github.com/yasinkuyu/binance-trader/blob/master/img/screenshot.png)
+![Screen Shot 2021-03-21 at 18 31 54](https://user-images.githubusercontent.com/81108192/111916624-b9529000-8a73-11eb-9c28-f148de164633.png)
 
 ## Configuration
 
