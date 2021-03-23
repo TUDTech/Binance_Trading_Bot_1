@@ -145,9 +145,3 @@ BTC WALLET: 3N928MmFq51kbf6fE3fxJbtggBhcjMAhSQ
     - January 6, 2018 RC
     - January 15, 2018 RC 1
     - January 20, 2018 RC 2
-
-## License
-
-Code released under the [MIT License](https://opensource.org/licenses/MIT).
-
----
